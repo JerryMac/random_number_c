@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1402612059 source:c:\users\jerrymc\desktop\stringappend\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
